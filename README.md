@@ -7,5 +7,5 @@
 
 ## [Ramen Ratings](https://github.com/maxwellgriffith345/Excel_Projects/blob/master/ramen-ratings.xlsm)
 - Exploring the data munging and analysis tools presented in [Excel Bible 2019](https://www.wiley.com/en-us/Excel+2019+Bible-p-9781119514787)
-- VLookup, Text Functions
+- VLookup, text functions, IFS, pivot tables, data visualizations, transforming data from long to wide,
 - Ramen ratings from Aleksey Bilogur's [data set](https://www.kaggle.com/residentmario/ramen-ratings)
